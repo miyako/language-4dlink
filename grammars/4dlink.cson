@@ -2,9 +2,9 @@
 #   - https://flight-manual.atom.io/hacking-atom/sections/creating-a-grammar/
 
 'scopeName': 'source.4dlink'
-'name': '4dlink'
+'name': '4D Link'
 'type': 'tree-sitter'
-'parser': 'tree-sitter-4dlink'
+'parser': 'tree-sitter-4dxml'
 
 'fileTypes': [
   '4DLink'
